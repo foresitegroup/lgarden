@@ -1,0 +1,398 @@
+/*
+#525252 - black
+#455A2B - dark green
+#253B15 - banner green
+#25BE04 - light green
+#C5CCBB - gray green
+*/
+
+.rokkitt { font-family: 'Rokkitt', serif; }
+
+BODY {
+  margin: 0;
+  padding: 0;
+  background: #FFFFFF url(../images/background.jpg) top left repeat-x;
+  color: #525252;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 14px;
+  line-height: 1.4em;
+}
+
+IMG {
+  border: 0;
+}
+
+HR {
+  border: none 0;
+  border-top: 1px solid #C5CCBB; /* the border */
+  height: 1px; /* whatever the total width of the border-top and border-bottom equal */
+}
+
+H1 {
+  font-family: 'Rokkitt', serif;
+  font-size: 28px;
+  line-height: 1em;
+  margin: 0 0 10px;
+}
+
+H2 {
+  font-family: 'Rokkitt', serif;
+  font-size: 25px;
+  font-weight: normal;
+  color: #455A2B;
+  margin: 0 0 20px;
+}
+
+H3 {
+  font-family: 'Rokkitt', serif;
+  font-size: 18px;
+  line-height: 1em;
+  margin: 0 0 1px;
+}
+
+UL, OL {
+  margin: 0 0 0 .7em;
+  padding: 0 0 0 .7em;
+}
+
+FORM {
+  padding-bottom: 0;
+  margin-bottom: 0;
+}
+
+A:link, A:visited {
+  color: #455A2B;
+  text-decoration: none;
+}
+
+A:hover, A:active {
+  color: #25BE04;
+  text-decoration: none;
+}
+
+#header {
+  margin: 0 auto;
+  width: 1000px;
+  height: 110px;
+}
+
+#logo {
+  width: 195px;
+  height: 85px;
+  float: left;
+  margin: 12px 0 0 0;
+}
+
+#header-right {
+  float: right;
+}
+
+#topmenu-wrap {
+  float: right;
+  height: 40px;
+}
+
+#topmenu {
+  float: left;
+  background: url(../images/topmenu-mid.png) top left repeat-x;
+  height: 40px;
+}
+
+#topmenu UL {
+  margin: 11px 0 0 0;
+  padding: 0;
+  list-style: none;
+}
+
+#topmenu UL LI {
+  float: left;
+  padding: 0 10px;
+  border-left: 1px solid #525252;
+  font-size: 12px;
+  height: 1em;
+  line-height: 1em;
+}
+
+#topmenu UL LI:first-child {
+  border-left: 0;
+}
+
+#topmenu UL LI A:link, #topmenu UL LI A:visited {
+  color: #525252;
+}
+
+#topmenu UL LI A:hover, #topmenu UL LI A:active {
+  color: #25BE04;
+}
+
+A#facebook:link, A#facebook:visited,
+A#pinterest:link, A#pinterest:visited {
+  float: right;
+  margin: 2px 0 0 9px;
+  display: block;
+  width: 32px;
+  height: 32px;
+  background: url(../images/facebook.png) top left no-repeat;
+}
+
+A#pinterest:link, A#pinterest:visited {
+  background: url(../images/pinterest.png) top left no-repeat;
+}
+
+A#facebook:hover, A#facebook:active,
+A#pinterest:hover, A#pinterest:active {
+  background-position: bottom left;
+}
+
+.menu {
+  margin: 0 55px 0 0;
+  padding: 0;
+  list-style: none;
+  float: right;
+}
+
+.menu LI {
+  float: left;
+  padding-left: 25px;
+  position: relative;
+  z-index: 999;
+}
+
+.menu LI A {
+  font-family: 'Rokkitt', serif;
+  font-size: 20px;
+  color: #455A2B;
+}
+
+.menu LI:hover A {
+  color: #25BE04;
+}
+
+.menu LI UL {
+  display: none;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  float: none;
+  position: absolute;
+  top: 1.5em;
+  left: 20px;
+  background: #F8F8F8;
+}
+
+.menu LI:hover UL {
+  display: block;
+}
+
+.menu LI UL LI {
+  float: none;
+  padding: 1px 8px;
+}
+
+.menu LI UL LI A:link, .menu LI UL LI A:visited {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 12px;
+  color: #455A2B;
+  display: block;
+  height: auto;
+  width: auto;
+  white-space: nowrap;
+}
+
+.menu LI UL LI A:hover, .menu LI UL LI A:active {
+  color: #25BE04;
+}
+
+#banner-main {
+  background: #253B15;
+  height: 341px;
+  overflow: hidden;
+  position: relative;
+}
+
+#rotating {
+  width: 1249px;
+  height: 341px;
+  overflow: hidden;
+  position: absolute;
+  top: 0;
+  left: 50%;
+  margin-left: -624px;
+}
+
+#banner {
+  background: #253B15 url(../images/banner-sub.jpg) top center no-repeat;
+  height: 140px;
+}
+
+#content {
+  margin: 0 auto;
+  padding: 25px 32px 50px 32px;
+  width: 936px;
+}
+
+#main {
+  float: left;
+  width: 696px;
+}
+
+.left {
+  float: left;
+  margin-right: 15px;
+  border: 10px solid #525252;
+}
+
+.right {
+  float: right;
+  margin-left: 15px;
+  border: 10px solid #525252;
+}
+
+.tour-left {
+  float: left;
+  width: 170px;
+  text-align: center;
+  font-size: 80%;
+  font-style: italic;
+  line-height: 1em;
+}
+
+.tour-right {
+  float: right;
+  width: 511px;
+}
+
+.border {
+  border: 10px solid #525252;
+}
+
+#sidebar {
+  float: right;
+  width: 190px;
+  font-family: 'Rokkitt', serif;
+  font-size: 22px;
+  font-style: italic;
+  color: #455A2B;
+  line-height: 1em;
+}
+
+#sidebar IMG {
+  border: 10px solid #525252;
+}
+
+#spiffs {
+  margin: 0 auto;
+  width: 1000px;
+  padding: 10px 0;
+  position: relative;
+}
+
+#spiffs A {
+  color: #525252;
+}
+
+#spiff-left {
+  float: left;
+  width: 272px;
+  padding: 20px 41px 20px 20px;
+  font-size: 18px;
+}
+
+#spiff-mid {
+  float: left;
+  width: 233px;
+  padding: 0 50px;
+  font-size: 18px;
+}
+
+#spiff-right {
+  float: right;
+  width: 293px;
+  padding: 25px 15px 20px 26px;
+  font-size: 12px;
+}
+
+.vr {
+  border-left: 1px dotted #908F8F;
+  display: block;
+  position: absolute;
+  top: 10px;
+  bottom: 10px;
+}
+
+#vegtrug {
+  margin: 0 auto;
+  padding: 15px 0;
+  width: 1000px;
+  text-align: center;
+  font-family: 'Rokkitt', serif;
+  font-size: 24px;
+  color: #455A2B;
+}
+
+#footer {
+  margin: 0 auto;
+  width: 1000px;
+  font-size: 12px;
+  color: #455A2B;
+}
+
+#copyright {
+  float: left;
+  height: 1em;
+  line-height: 1em;
+  margin-top: 26px;
+}
+
+#footer .menu {
+  margin: 26px 0 0 26px;
+  float: left;
+  height: 1em;
+  line-height: 1em;
+}
+
+#footer .menu LI {
+  padding: 0 4px;
+  border-left: 1px solid #455A2B;
+}
+
+#footer .menu LI:first-child {
+  border-left: 0;
+}
+
+#footer .menu LI A {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 12px;
+  color: #455A2B;
+}
+
+#footer .menu LI:hover A {
+  color: #25BE04;
+}
+
+#footer .menu LI UL, #footer .menu LI:hover UL {
+  display: none;
+}
+
+A#wordpress:link, A#wordpress:visited {
+  float: right;
+  margin: 20px 0;
+  display: block;
+  width: 32px;
+  height: 32px;
+  background: url(../images/wordpress.png) top left no-repeat;
+}
+
+A#wordpress:hover, A#wordpress:active {
+  background-position: bottom left;
+}
+
+
+
+/* This should be at the end of the file */
+@media only screen and (max-device-width: 480px) {
+  html {
+    -webkit-text-size-adjust: none;
+    -ms-text-size-adjust: none;
+  }
+}
