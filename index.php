@@ -7,8 +7,8 @@ include "header.php";
 <a href="lgarden-balcony-details.php"><img src="images/spiff-balcony.jpg" alt="" style="float: right;"></a>
 <div style="clear: both;"></div><br>
 
-<span style="font-size: 124%;">The <strong>LGarden</strong>, an innovative gardening system that promotes a healthy experience for today's diverse gardener. Designed in the USA, <strong>LGarden</strong> takes the negatives out of gardening. At 32" off the ground, plants are waist-high and easy to maintain, eliminating back and knee strain. The built-in wheels allow you to follow the sun or move the <strong>LGarden</strong> out of the way to make room for company.<br>
+<span style="font-size: 124%;">Our <strong>LGarden</strong> and <strong>LGarden Balcony</strong> are "new age gardens" designed to be compatible with the twenty first century lifestyle. Healthy herbs, vegetables and fruits can now be grown at a waist high level &mdash; steps from your kitchen. Designed in the USA, our unique gardening vessels offer an individual the horticultural experience while eliminating the negatives commonly associated with traditional gardening.<br>
 <br>
-<a href="lgarden-details.php" style="float: right; font-size: 86%; font-weight: bold;">Read More ></a></span>
+<a href="our-gardens.php" style="float: right; font-size: 86%; font-weight: bold;">Read More ></a></span>
 
 <?php include "footer.php"; ?>
