@@ -62,5 +62,6 @@ retailers-login.php
 admin/login.php
 audio/
 backup/
+inc/dbconfig.php
 pdf/
 retailers/
