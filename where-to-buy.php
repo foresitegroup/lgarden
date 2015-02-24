@@ -56,6 +56,10 @@ include "header.php";
   <div style="float: left; width: 200px; text-align: center;">
     <h3>Online Only</h3>
     
+    <a href="http://www.distinctivegardensolutions.com/container-gardens/"><img src="images/wtb-distinctive.png" alt="Distinctive Garden Solutions"></a><br>
+    <br>
+    <br>
+
     <a href="http://mypotsandplanters.com/search.php?search_query=lgarden"><img src="images/wtb-my-pots-and-planters.png" alt="My Pots and Planters"></a><br>
     <br>
     <br>
