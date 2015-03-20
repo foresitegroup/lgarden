@@ -1,5 +1,7 @@
 <?php
 $PageTitle = "Where to Buy";
+$Description = "Our LGardens can be purchased online or in store. View our Where to Buy page for details.";
+$Keywords = "LGarden, elevated gardening, elevated garden, where to buy LGarden, where to purchase LGarden, buy LGarden, purchase LGarden, how to purchase LGarden, raised bed gardens, where to buy raised bed gardens";
 include "header.php";
 ?>
 
@@ -8,7 +10,7 @@ include "header.php";
 
   Available at these fine retailers.<br>
   <br>
-  
+
   <div style="float: left; width: 200px; margin-right: 168px; text-align: center;">
     <h3>In Store and Online Sales</h3>
 
@@ -23,27 +25,27 @@ include "header.php";
 
   <div style="float: left; width: 200px; margin-right: 168px; text-align: center;">
     <h3>In Store Only</h3>
-    
+
     <a href="http://www.gertens.com/cart/containers-and-pots/lgarden.html"><img src="images/wtb-gertens.jpg" alt="Gertens Greenhouses &amp; Garden Center"></a><br>
     Inver Grove Heights, MN<br>
     <br>
     <br>
-    
+
     <a href="http://www.pasquesi.com"><img src="images/wtb-pasquesi.jpg" alt="Pasquesi"></a><br>
     Lake Bluff, IL<br>
     <br>
     <br>
-    
+
     <a href="http://www.chaletnursery.com"><img src="images/wtb-chalet.jpg" alt="Chalet Nursery"></a><br>
     Wilmette, IL<br>
     <br>
     <br>
-    
+
     <a href="http://www.bluemels.com"><img src="images/wtb-bluemels.jpg" alt="Bluemel's" style="width: 200px;"></a><br>
     Milwaukee, WI<br>
     <br>
     <br>
-    
+
     <a href="http://www.brucecompany.com"><img src="images/wtb-thebrucecompany.jpg" alt="The Bruce Company" style="width: 200px;"></a><br>
     Madison, WI<br>
     <br>
@@ -55,7 +57,7 @@ include "header.php";
 
   <div style="float: left; width: 200px; text-align: center;">
     <h3>Online Only</h3>
-    
+
     <a href="http://www.distinctivegardensolutions.com/container-gardens/"><img src="images/wtb-distinctive.png" alt="Distinctive Garden Solutions"></a><br>
     <br>
     <br>
@@ -91,30 +93,30 @@ include "header.php";
     <a href="http://www.exterior-accents.com/lgelga.html"><img src="images/wtb-exterioraccents.jpg" alt="Exterior Accents"></a><br>
     <br>
     <br>
-    
+
     <a href="http://www.cedarwoodfurniture.com/elevated-gardening-center.html"><img src="images/wtb-adams.jpg" alt="Adams"></a><br>
     <br>
     <br>
-    
+
     <a href="http://www.outdoorfurnitureplus.com/elevated-garden-lgarden.html"><img src="images/wtb-outdoor-furniture-plus.jpg" alt="Outdoor Furniture Plus"></a><br>
     <br>
     <br>
-    
+
     <a href="http://www.wayfair.com/LGarden-Elevated-Gardening-System-0100-LGAR1000.html"><img src="images/wtb-wayfair.jpg" alt="Wayfair"></a><br>
     <br>
     <br>
-    
+
     <a href="http://www.diyhomecenter.com/raised-garden-beds/"><img src="images/wtb-diy-home-center.jpg" alt="DIY Home Center"></a><br>
     <br>
     <br>
-    
+
     <a href="http://www.ivgstores.com/IVG2/Y/VentureProducts.htm"><img src="images/wtb-ivgstores.jpg" alt="IVG Stores"></a><br>
     <br>
     <br>
-    
+
     <a href="http://www.unbeatablesales.com/vep002.html"><img src="images/wtb-unbeatablesale.jpg" alt="Unbeatable Sale"></a>
   </div>
-  
+
   <div style="clear: both;"></div>
 </div> <!-- END main -->
 

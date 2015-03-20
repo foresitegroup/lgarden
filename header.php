@@ -1,5 +1,7 @@
 <?php
 $TopDir = basename(dirname($_SERVER['PHP_SELF'])) == "blog" ? "../" : "";
+if ($Description == "") $Description = "Importers of the popular VegTrug elevated garden, Venture Products proudly introduces the LGarden, an innovative mobile gardening bed that promotes a satisfying garden experience for the 21st century lifestyle.";
+if ($Keywords == "") $Keywords = "LGarden, VegTrug, raised garden, gardening system, healthy gardening, USA, garden on wheels, vegetable, deep rooted vegetables, victory garden, elderly, teachers, grow your own, gardeners, patio, porch, balcony, home grown, active life style, wheel chair accessible";
 ?>
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
 <html lang="en">
@@ -27,9 +29,9 @@ $TopDir = basename(dirname($_SERVER['PHP_SELF'])) == "blog" ? "../" : "";
     }
     ?>
   </title>
-  <meta name="description" content="Importers of the popular VegTrug elevated garden, Venture Products proudly introduces the LGarden, an innovative mobile gardening bed that promotes a satisfying garden experience for the 21st century lifestyle.">
-  <meta name="keywords" content="LGarden, VegTrug, raised garden, gardening system, healthy gardening, USA, garden on wheels, vegetable, deep rooted vegetables, victory garden, elderly, teachers, grow your own, gardeners, patio, porch, balcony, home grown, active life style, wheel chair accessible">
-  <meta name="author" content="Remedi Creative">
+  <meta name="description" content="<?php echo $Description; ?>">
+  <meta name="keywords" content="<?php echo $Keywords; ?>">
+  <meta name="author" content="Foresite Group">
 
   <link rel="shortcut icon" href="<?php echo $TopDir; ?>images/favicon.ico">
   <link rel="apple-touch-icon" href="<?php echo $TopDir; ?>images/apple-touch-icon.png">

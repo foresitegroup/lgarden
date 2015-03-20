@@ -1,5 +1,7 @@
 <?php
 $PageTitle = "LGarden Balcony Details";
+$Description = "Engineered with the gardener in mind, our LGarden Balcony was designed with several innovative features that make it the perfect solution for patio, deck or balcony gardening.";
+$Keywords = "LGarden, elevated gardening, balcony gardening, balcony garden, mobile balcony garden, perfect height garden, built with red cedar, vegtrug, made in the usa, condominium gardening, apartment gardening";
 $Banner = "banner-sub-balcony.jpg";
 include "header.php";
 ?>

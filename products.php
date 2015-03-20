@@ -1,5 +1,7 @@
 <?php
 $PageTitle = "Products";
+$Description = "LGarden offers the highest quality raised gardening products on the market. View our original LGarden, our LGarden balcony and more.";
+$Keywords = "elevated garden, elevated gardening, raised gardens, raised bed gardening, elevated gardening products, gardening products, mobile garden, easy to use garden, garden on wheels, raised gardening system, LGarden, made in the usa, balcony garden, balcony gardening, vegtrug";
 include "header.php";
 ?>
 

@@ -1,5 +1,7 @@
 <?php
 $PageTitle = "LGarden Details";
+$Description = "Engineered with the gardener in mind, our LGarden was designed with several innovative features that make it the perfect solution for patio, deck or balcony gardening.";
+$Keywords = "LGarden, elevated gardening, quality engineered gardening system, raised bed gardening, raised bed garden, mobile garden, large raised be garden, reinforced carriage, popular raised be garden, easy mobility, mobile vegetable garden";
 include "header.php";
 ?>
 
