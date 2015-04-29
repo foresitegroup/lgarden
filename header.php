@@ -32,6 +32,7 @@ if ($Keywords == "") $Keywords = "LGarden, VegTrug, raised garden, gardening sys
   <meta name="description" content="<?php echo $Description; ?>">
   <meta name="keywords" content="<?php echo $Keywords; ?>">
   <meta name="author" content="Foresite Group">
+  <meta name="p:domain_verify" content="51e28ea0eb59a5997b37b8a166553577"/>
 
   <link rel="shortcut icon" href="<?php echo $TopDir; ?>images/favicon.ico">
   <link rel="apple-touch-icon" href="<?php echo $TopDir; ?>images/apple-touch-icon.png">
