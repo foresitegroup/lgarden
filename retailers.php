@@ -194,32 +194,6 @@ include "header.php";
   
   <!-- New row -->
 
-  
-  <div style="float: left; width: 215px; text-align: center; margin-right: 25px;">
-    <div style="width: 215px; height: 143px;">
-      <img src="retailers/Woman_using_LGarden_web_small.jpg" alt="" style="width: 215px;">
-    </div>
-    <strong>Woman using LGarden</strong><br>
-    <a href="retailers/Woman_using_LGarden_web_small.jpg">Web (small)</a> <span style="font-size: 80%;">400x266px | 72dpi | 34kb</span><br>
-    <a href="retailers/Woman_using_LGarden_web_large.jpg">Web (large)</a> <span style="font-size: 80%;">1000x665px | 72dpi | 141kb</span><br>
-    <a href="retailers/Woman_using_LGarden.jpg">Print</a> <span style="font-size: 80%;">4256x2832px | 240dpi | 6.9mb</span>
-  </div>
-
-  <div style="float: left; width: 215px; text-align: center;">
-    <div style="width: 215px; height: 143px;">
-      <img src="retailers/LGarden_closeup_web_small.jpg" alt="" style="width: 215px;">
-    </div>
-    <strong>Close up</strong><br>
-    <a href="retailers/LGarden_closeup_web_small.jpg">Web (small)</a> <span style="font-size: 80%;">400x266px | 72dpi | 19kb</span><br>
-    <a href="retailers/LGarden_closeup_web_large.jpg">Web (large)</a> <span style="font-size: 80%;">1000x665px | 72dpi | 60kb</span><br>
-    <a href="retailers/LGarden_closeup.jpg">Print</a> <span style="font-size: 80%;">4256x2832px | 240dpi | 3.7mb</span>
-  </div>
-
-  <div style="clear: both;"></div><br>
-  <br>
-  
-  <!-- New row -->
-
   <div style="float: left; width: 215px; text-align: center; margin-right: 25px;">
     <img src="retailers/LGarden_against_wall_web_small.jpg" alt="" style="height: 215px;"><br>
     <strong>LGarden against wall</strong><br>
@@ -250,6 +224,44 @@ include "header.php";
     <a href="retailers/LGarden_nameplate_partial_focus_web_small.jpg">Web (small)</a> <span style="font-size: 80%;">266x400px | 72dpi | 19kb</span><br>
     <a href="retailers/LGarden_nameplate_partial_focus_web_large.jpg">Web (large)</a> <span style="font-size: 80%;">665x1000px | 72dpi | 60kb</span><br>
     <a href="retailers/LGarden_nameplate_partial_focus.jpg">Print</a> <span style="font-size: 80%;">2832x4256px | 240dpi | 4.0mb</span>
+  </div>
+
+  <div style="clear: both;"></div><br>
+  <br>
+
+  <!-- New row -->
+  
+  <div style="float: left; width: 215px; text-align: center; margin-right: 25px;">
+    <div style="width: 215px; height: 143px;">
+      <img src="retailers/Woman_using_LGarden_web_small.jpg" alt="" style="width: 215px;">
+    </div>
+    <strong>Woman using LGarden</strong><br>
+    <a href="retailers/Woman_using_LGarden_web_small.jpg">Web (small)</a> <span style="font-size: 80%;">400x266px | 72dpi | 34kb</span><br>
+    <a href="retailers/Woman_using_LGarden_web_large.jpg">Web (large)</a> <span style="font-size: 80%;">1000x665px | 72dpi | 141kb</span><br>
+    <a href="retailers/Woman_using_LGarden.jpg">Print</a> <span style="font-size: 80%;">4256x2832px | 240dpi | 6.9mb</span>
+  </div>
+
+  <div style="float: left; width: 215px; text-align: center; margin-right: 25px;">
+    <div style="width: 215px; height: 143px;">
+      <img src="retailers/LGarden_closeup_web_small.jpg" alt="" style="width: 215px;">
+    </div>
+    <strong>Close up</strong><br>
+    <a href="retailers/LGarden_closeup_web_small.jpg">Web (small)</a> <span style="font-size: 80%;">400x266px | 72dpi | 19kb</span><br>
+    <a href="retailers/LGarden_closeup_web_large.jpg">Web (large)</a> <span style="font-size: 80%;">1000x665px | 72dpi | 60kb</span><br>
+    <a href="retailers/LGarden_closeup.jpg">Print</a> <span style="font-size: 80%;">4256x2832px | 240dpi | 3.7mb</span>
+  </div>
+
+  <div style="float: left; width: 215px; text-align: center; margin-right: 25px; height: 1em;">
+    <!-- empty -->
+  </div>
+
+  <div style="float: left; width: 215px; text-align: center;">
+    <div style="width: 215px; height: 143px;">
+      <img src="retailers/LGarden_Balcony_green_web_small.jpg" alt="" style="width: 215px;">
+    </div>
+    <strong>LGarden Balcony (Green)</strong><br>
+    <a href="retailers/LGarden_Balcony_green_web_small.jpg">Web (small)</a> <span style="font-size: 80%;">400x266px | 72dpi | 18kb</span><br>
+    <a href="retailers/LGarden_Balcony_green_web_large.jpg">Web (large)</a> <span style="font-size: 80%;">1000x665px | 72dpi | 86kb</span>
   </div>
 
   <div style="clear: both;"></div><br>

@@ -16,7 +16,7 @@ include "header.php";
   <br>
   
   <div style="float: left; text-align: center; font-size: 80%; font-style: italic; line-height: 1em;">
-    <img src="images/lgarden-balcony-green.jpg" alt="" class="border"><br>
+    <img src="images/lgarden-balcony-green2.jpg" alt="" class="border"><br>
     Earthy Green Finish
   </div>
   <div style="float: right; text-align: center; font-size: 80%; font-style: italic; line-height: 1em;">
