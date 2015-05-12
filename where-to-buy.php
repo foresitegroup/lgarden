@@ -14,6 +14,10 @@ include "header.php";
   <div style="float: left; width: 200px; text-align: center; margin-right: 168px;">
     <h3>Online Only</h3>
 
+    <a href="http://virventures.com/index.php?route=product/manufacturer/info&manufacturer_id=3220"><img src="images/wtb-virventures.png" alt="VIR Ventures"></a><br>
+    <br>
+    <br>
+
     <a href="http://www.frontgate.com/elevated-garden/648482"><img src="images/wtb-frontgate.png" alt="Frontgate"></a><br>
     <br>
     <br>
