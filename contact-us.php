@@ -11,7 +11,10 @@ include_once "inc/dbconfig.php";
   <?php
   if (isset($_POST['submit'])) {
     date_default_timezone_set('America/Chicago');
-    mysql_query("INSERT INTO email (name, email, comment, sendme, date) VALUES('" . $_POST['name'] . "','" . $_POST['email'] . "','" . $_POST['comment'] . "','" . implode(", ", $_POST['sendme']) . "','" . date('m/d/Y h:i:s a') . "')");
+
+    $sendme = ($_POST['sendme'] != "") ? implode(", ", $_POST['sendme']) : "";
+
+    mysql_query("INSERT INTO email (name, email, comment, sendme, date) VALUES('" . $_POST['name'] . "','" . $_POST['email'] . "','" . $_POST['comment'] . "','" . $sendme . "','" . date('m/d/Y h:i:s a') . "')");
 
     //$SendTo = "info@elevatedgardening.com";
     $SendTo = "info@dls-lawnandgarden.com";
